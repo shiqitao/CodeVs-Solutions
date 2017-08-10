@@ -20,3 +20,5 @@ cout << setiosflags(ios::fixed) << setprecision(2) << result << endl;
 1470：	排序：快速排序
 1505：	str.c_str()：将string转为char数组
 		atoi、atof：将char数组转为int或double
+
+1079：	道路可能重复且距离不相等
