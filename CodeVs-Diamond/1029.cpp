@@ -7,7 +7,7 @@ int main()
 	string DLR, LRD;
 	cin >> DLR >> LRD;
 	cout << count(DLR, LRD) << endl;
-	return 0;
+	return 0
 }
 int count(string DLR, string LRD)
 {
