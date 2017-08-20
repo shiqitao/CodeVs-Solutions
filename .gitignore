@@ -4,5 +4,4 @@
 *.suo
 *.vcxproj
 *.filters
-test.cpp
 Debug/
