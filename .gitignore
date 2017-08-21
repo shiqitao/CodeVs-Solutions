@@ -1,7 +1,4 @@
-*.opensdf
-*.sdf
-*.sln
-*.suo
 *.vcxproj
 *.filters
 Debug/
+Solution/
