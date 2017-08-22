@@ -18,19 +18,20 @@
 
 |  ID  | Name |  Notes   | Errors |
 | :--: | :--: | :------: | :----: |
-| 2806 |      | DFS + 递归 |        |
+| 2806 | 红与黑  | DFS + 递归 |        |
 
 ###### CodeVs - Gold
 
 |  ID  | Name |     Notes      | Errors |
 | :--: | :--: | :------------: | ------ |
-| 1031 |      | DFS + 递归 + 素数筛 |        |
-| 1086 |      |    Catalan数    |        |
-| 1215 |      |    DFS + 递归    |        |
+| 1014 | 装箱问题 |    01背包型DP     |        |
+| 1031 | 质数环  | DFS + 递归 + 素数筛 |        |
+| 1086 |  栈   |    Catalan数    |        |
+| 1215 |  迷宫  |    DFS + 递归    |        |
 
 ###### CodeVs - Diamond
 
-|  ID  | Name |          Notes           | Errors |
-| :--: | :--: | :----------------------: | ------ |
-| 1028 |      | Kuhn-Munkres算法 + slack优化 |        |
-| 1250 |      |    Fibonacci数列的矩阵幂求法     |        |
+|  ID  |    Name     |          Notes           | Errors |
+| :--: | :---------: | :----------------------: | ------ |
+| 1028 |   花店橱窗布置    | Kuhn-Munkres算法 + slack优化 |        |
+| 1250 | Fibonacci数列 |    Fibonacci数列的矩阵幂求法     |        |
