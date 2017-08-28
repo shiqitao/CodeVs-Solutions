@@ -13,24 +13,24 @@ int main()
 		cin >> ch;
 		num[i] = ch - '0';
 	}
-	int *data = new int[N*K];
-	memset(data, 0, sizeof(int)*N*K);
+	int *DP = new int[N*K];
+	memset(DP, 0, sizeof(int)*N*K);
 	for (int i = 0; i < N; i++)
-		data[i*K] = number(num, 0, i + 1);
+		DP[i*K] = number(num, 0, i + 1);
 	for (int i = 1; i < N; i++)
 	{
 		for (int j = 1; j < K; j++)
 		{
 			for (int k = 0; k < i; k++)
 			{
-				if (data[k*K + j - 1] != 0)
-					data[i*K + j] = MAX(data[i*K + j], data[k*K + j - 1] * number(num, k + 1, i + 1));
+				if (DP[k*K + j - 1] != 0)
+					DP[i*K + j] = MAX(DP[i*K + j], DP[k*K + j - 1] * number(num, k + 1, i + 1));
 			}
 		}
 	}
-	cout << data[N*K - 1] << endl;
+	cout << DP[N*K - 1] << endl;
 	delete[] num;
-	delete[] data;
+	delete[] DP;
 	return 0;
 }
 int number(int num[], int start, int end)

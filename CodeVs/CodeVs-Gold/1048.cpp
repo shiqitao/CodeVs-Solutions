@@ -18,21 +18,21 @@ int main()
 			sum[i*n + j] = tempSum;
 		}
 	}
-	unsigned int *data = new unsigned int[n*n];
-	memset(data, 255, sizeof(int)*n*n);
+	unsigned int *DP = new unsigned int[n*n];
+	memset(DP, 255, sizeof(int)*n*n);
 	for (int i = 0; i < n; i++)
-		data[i*n + i] = 0;
+		DP[i*n + i] = 0;
 	for (int i = 1; i < n; i++)
 	{
 		for (int j = 0; j + i < n; j++)
 		{
 			for (int k = 0; k < i; k++)
-				data[j*n + j + i] = MIN(data[j*n + j + i], data[j*n + j + k] + data[(j + k + 1)*n + j + i] + sum[j*n + j + k] + sum[(j + k + 1)*n + j + i]);
+				DP[j*n + j + i] = MIN(DP[j*n + j + i], DP[j*n + j + k] + DP[(j + k + 1)*n + j + i] + sum[j*n + j + k] + sum[(j + k + 1)*n + j + i]);
 		}
 	}
-	cout << data[n - 1] << endl;
+	cout << DP[n - 1] << endl;
 	delete[] weight;
 	delete[] sum;
-	delete[] data;
+	delete[] DP;
 	return 0;
 }
