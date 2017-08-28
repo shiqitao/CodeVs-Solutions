@@ -21,23 +21,26 @@ Notes and Errors
 
 ###### CodeVs - Silver
 
-|  ID  | Name |  Notes   | Errors |
-| :--: | :--: | :------: | :----: |
-| 2806 | 红与黑  | DFS + 递归 |        |
+|                   ID                   | Name |  Notes   | Errors |
+| :------------------------------------: | :--: | :------: | :----: |
+| [2806](http://codevs.cn/problem/2806/) | 红与黑  | DFS + 递归 |        |
 
 ###### CodeVs - Gold
 
-|                   ID                   | Name |     Notes      | Errors |
-| :------------------------------------: | :--: | :------------: | ------ |
-|                  1014                  | 装箱问题 |    01背包型DP     |        |
-| [1017](http://codevs.cn/problem/1017/) | 乘积最大 |     划分型DP      |        |
-|                  1031                  | 质数环  | DFS + 递归 + 素数筛 |        |
-|                  1086                  |  栈   |    Catalan数    |        |
-|                  1215                  |  迷宫  |    DFS + 递归    |        |
+|                   ID                   | Name |   Notes   | Errors |
+| :------------------------------------: | :--: | :-------: | ------ |
+| [1014](http://codevs.cn/problem/1014/) | 装箱问题 |  01背包型DP  |        |
+| [1017](http://codevs.cn/problem/1017/) | 乘积最大 |   划分型DP   |        |
+| [1031](http://codevs.cn/problem/1031/) | 质数环  | DFS + 素数筛 |        |
+| [1039](http://codevs.cn/problem/1039/) | 数的划分 |   划分型DP   |        |
+| [1048](http://codevs.cn/problem/1048/) | 石子归并 |   区间型DP   |        |
+| [1085](http://codevs.cn/problem/1085/) | 数字游戏 |  环形划分型DP  |        |
+| [1086](http://codevs.cn/problem/1086/) |  栈   | Catalan数  |        |
+| [1215](http://codevs.cn/problem/1215/) |  迷宫  |    DFS    |        |
 
 ###### CodeVs - Diamond
 
-|  ID  |    Name     |          Notes           | Errors |
-| :--: | :---------: | :----------------------: | ------ |
-| 1028 |   花店橱窗布置    | Kuhn-Munkres算法 + slack优化 |        |
-| 1250 | Fibonacci数列 |    Fibonacci数列的矩阵幂求法     |        |
+|                   ID                   |    Name     |          Notes           | Errors |
+| :------------------------------------: | :---------: | :----------------------: | ------ |
+| [1028](http://codevs.cn/problem/1028/) |   花店橱窗布置    | Kuhn-Munkres算法 + slack优化 |        |
+| [1250](http://codevs.cn/problem/1250/) | Fibonacci数列 |    Fibonacci数列的矩阵幂求法     |        |
