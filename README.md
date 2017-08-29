@@ -43,11 +43,12 @@ Notes and Errors
 | [1643](http://codevs.cn/problem/1643/) |   线段覆盖3   |      序列型DP + 二分查找(1) / 贪心算法(2)       |        |
 | [3012](http://codevs.cn/problem/3012/) |   线段覆盖4   | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
 | [3027](http://codevs.cn/problem/3027/) |   线段覆盖2   |                序列型DP                 |        |
-| [3037](http://codevs.cn/problem/3037/) |   线段覆盖5   | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
+|                                        |           |                                      |        |
 
 ###### CodeVs - Diamond
 
-|                   ID                   |    Name     |          Notes           | Errors |
-| :------------------------------------: | :---------: | :----------------------: | ------ |
-| [1028](http://codevs.cn/problem/1028/) |   花店橱窗布置    | Kuhn-Munkres算法 + slack优化 |        |
-| [1250](http://codevs.cn/problem/1250/) | Fibonacci数列 |    Fibonacci数列的矩阵幂求法     |        |
+|                   ID                   |    Name     |                Notes                 | Errors |
+| :------------------------------------: | :---------: | :----------------------------------: | ------ |
+| [1028](http://codevs.cn/problem/1028/) |   花店橱窗布置    |       Kuhn-Munkres算法 + slack优化       |        |
+| [1250](http://codevs.cn/problem/1250/) | Fibonacci数列 |          Fibonacci数列的矩阵幂求法           |        |
+| [3037](http://codevs.cn/problem/3037/) |    线段覆盖5    | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
