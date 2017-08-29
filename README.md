@@ -27,18 +27,23 @@ Notes and Errors
 
 ###### CodeVs - Gold
 
-|                   ID                   |   Name    |    Notes     | Errors |
-| :------------------------------------: | :-------: | :----------: | ------ |
-| [1014](http://codevs.cn/problem/1014/) |   装箱问题    |   01背包型DP    |        |
-| [1017](http://codevs.cn/problem/1017/) |   乘积最大    |    划分型DP     |        |
-| [1031](http://codevs.cn/problem/1031/) |    质数环    |  DFS + 素数筛   |        |
-| [1039](http://codevs.cn/problem/1039/) |   数的划分    |    划分型DP     |        |
-| [1044](http://codevs.cn/problem/1044/) |   拦截导弹    | 序列型DP + 贪心算法 |        |
-| [1048](http://codevs.cn/problem/1048/) |   石子归并    |    区间型DP     |        |
-| [1085](http://codevs.cn/problem/1085/) |   数字游戏    |   环形划分型DP    |        |
-| [1086](http://codevs.cn/problem/1086/) |     栈     |   Catalan数   |        |
-| [1215](http://codevs.cn/problem/1215/) |    迷宫     |     DFS      |        |
-| [1576](http://codevs.cn/problem/1576/) | 最长严格上升子序列 |    序列型DP     |        |
+|                   ID                   |   Name    |                Notes                 | Errors |
+| :------------------------------------: | :-------: | :----------------------------------: | ------ |
+| [1014](http://codevs.cn/problem/1014/) |   装箱问题    |               01背包型DP                |        |
+| [1017](http://codevs.cn/problem/1017/) |   乘积最大    |                划分型DP                 |        |
+| [1031](http://codevs.cn/problem/1031/) |    质数环    |              DFS + 素数筛               |        |
+| [1039](http://codevs.cn/problem/1039/) |   数的划分    |                划分型DP                 |        |
+| [1044](http://codevs.cn/problem/1044/) |   拦截导弹    |             序列型DP + 贪心算法             |        |
+| [1048](http://codevs.cn/problem/1048/) |   石子归并    |                区间型DP                 |        |
+| [1085](http://codevs.cn/problem/1085/) |   数字游戏    |               环形划分型DP                |        |
+| [1086](http://codevs.cn/problem/1086/) |     栈     |               Catalan数               |        |
+| [1214](http://codevs.cn/problem/1214/) |   线段覆盖    |                序列型DP                 |        |
+| [1215](http://codevs.cn/problem/1215/) |    迷宫     |                 DFS                  |        |
+| [1576](http://codevs.cn/problem/1576/) | 最长严格上升子序列 |                序列型DP                 |        |
+| [1643](http://codevs.cn/problem/1643/) |   线段覆盖3   |      序列型DP + 二分查找(1) / 贪心算法(2)       |        |
+| [3012](http://codevs.cn/problem/3012/) |   线段覆盖4   | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
+| [3027](http://codevs.cn/problem/3027/) |   线段覆盖2   |                序列型DP                 |        |
+| [3037](http://codevs.cn/problem/3037/) |   线段覆盖5   | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
 
 ###### CodeVs - Diamond
 
