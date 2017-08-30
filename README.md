@@ -41,6 +41,7 @@ Notes and Errors
 | [1215](http://codevs.cn/problem/1215/) |    迷宫     |                 DFS                  |        |
 | [1576](http://codevs.cn/problem/1576/) | 最长严格上升子序列 |                序列型DP                 |        |
 | [1643](http://codevs.cn/problem/1643/) |   线段覆盖3   |      序列型DP + 二分查找(1) / 贪心算法(2)       |        |
+| [1697](http://codevs.cn/problem/1697/) |   ⑨要写信    |            序列型DP + 大数四则运算            |        |
 | [3012](http://codevs.cn/problem/3012/) |   线段覆盖4   | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
 | [3027](http://codevs.cn/problem/3027/) |   线段覆盖2   |                序列型DP                 |        |
 |                                        |           |                                      |        |
