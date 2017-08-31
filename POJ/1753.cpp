@@ -31,6 +31,7 @@ int main()
 	BFS.push(node);
 	bool visit[65536];
 	memset(visit, false, sizeof(bool)* 65536);
+	visit[data] = true;
 	while (!BFS.empty())
 	{
 		node = BFS.front();
