@@ -21,14 +21,15 @@
 
 ###### CodeVs - Silver
 
-|                   ID                   | Name |  Notes   | Errors |
-| :------------------------------------: | :--: | :------: | :----: |
-| [2806](http://codevs.cn/problem/2806/) | 红与黑  | DFS + 递归 |        |
+|                   ID                   | Name | Notes | Errors |
+| :------------------------------------: | :--: | :---: | :----: |
+| [2806](http://codevs.cn/problem/2806/) | 红与黑  |  DFS  |        |
 
 ###### CodeVs - Gold
 
 |                   ID                   |     Name      |                Notes                 |  Errors   |
 | :------------------------------------: | :-----------: | :----------------------------------: | :-------: |
+| [1010](http://codevs.cn/problem/1010/) |      过河卒      |                棋盘型DP                 |           |
 | [1014](http://codevs.cn/problem/1014/) |     装箱问题      |               01背包型DP                |           |
 | [1017](http://codevs.cn/problem/1017/) |     乘积最大      |                划分型DP                 |           |
 | [1031](http://codevs.cn/problem/1031/) |      质数环      |              DFS + 素数筛               |           |
@@ -52,7 +53,6 @@
 |                   ID                   |    Name     |                Notes                 | Errors |
 | :------------------------------------: | :---------: | :----------------------------------: | :----: |
 | [1028](http://codevs.cn/problem/1028/) |   花店橱窗布置    |       Kuhn-Munkres算法 + slack优化       |        |
-| [1250](http://codevs.cn/problem/1250/) | Fibonacci数列 |          Fibonacci数列的矩阵幂求法           |        |
+| [1250](http://codevs.cn/problem/1250/) | Fibonacci数列 |          Fibonacci + 矩阵快速幂           |        |
 | [3037](http://codevs.cn/problem/3037/) |    线段覆盖5    | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
 | [3095](http://codevs.cn/problem/3095/) |    黑心的市长    | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
-|                                        |             |                                      |        |
