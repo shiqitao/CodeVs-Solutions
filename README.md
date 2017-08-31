@@ -1,6 +1,6 @@
 # Notes and Errors
 
-###### HDOJ
+### HDOJ
 
 |                    ID                    |           Name           |       Notes       |
 | :--------------------------------------: | :----------------------: | :---------------: |
@@ -17,15 +17,13 @@
 | [4055](http://acm.hdu.edu.cn/showproblem.php?pid=4055) |      Number String       |       序列型DP       |
 | [4489](http://acm.hdu.edu.cn/showproblem.php?pid=4489) | The King’s Ups and Downs |       序列型DP       |
 
-
-
-###### CodeVs - Silver
+### CodeVs - Silver
 
 |                   ID                   | Name | Notes | Errors |
 | :------------------------------------: | :--: | :---: | :----: |
 | [2806](http://codevs.cn/problem/2806/) | 红与黑  |  DFS  |        |
 
-###### CodeVs - Gold
+### CodeVs - Gold
 
 |                   ID                   |     Name      |                Notes                 |  Errors   |
 | :------------------------------------: | :-----------: | :----------------------------------: | :-------: |
@@ -48,7 +46,7 @@
 | [3369](http://codevs.cn/problem/3369/) |      膜拜       |                序列型DP                 |           |
 | [3374](http://codevs.cn/problem/3374/) | 最长等差子序列（数据有误） |                序列型DP                 | 数据范围和答案有误 |
 
-###### CodeVs - Diamond
+### CodeVs - Diamond
 
 |                   ID                   |    Name     |                Notes                 | Errors |
 | :------------------------------------: | :---------: | :----------------------------------: | :----: |
