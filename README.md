@@ -17,6 +17,16 @@
 | [4055](http://acm.hdu.edu.cn/showproblem.php?pid=4055) |      Number String       |       序列型DP       |
 | [4489](http://acm.hdu.edu.cn/showproblem.php?pid=4489) | The King’s Ups and Downs |       序列型DP       |
 
+### POJ
+
+|                   ID                   |   Name    | Notes |
+| :------------------------------------: | :-------: | :---: |
+| [1753](http://poj.org/problem?id=1753) | Flip Game |       |
+|                                        |           |       |
+|                                        |           |       |
+
+
+
 ### CodeVs - Silver
 
 |                   ID                   | Name | Notes | Errors |
