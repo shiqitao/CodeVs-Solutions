@@ -32,13 +32,15 @@ int main()
 	bool visit[65536];
 	memset(visit, false, sizeof(bool)* 65536);
 	visit[data] = true;
+	Node temp;
 	while (!BFS.empty())
 	{
 		node = BFS.front();
 		BFS.pop();
 		for (int i = 0; i < 16; i++)
 		{
-			Node temp = { node.data^flip[i], node.numFlip + 1 };
+			temp.data = node.data^flip[i];
+			temp.numFlip = node.numFlip + 1;
 			if (!visit[temp.data])
 			{
 				if (temp.data == 0 || temp.data == 0xFFFF)
