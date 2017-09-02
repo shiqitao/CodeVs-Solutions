@@ -53,9 +53,11 @@
 | [1576](http://codevs.cn/problem/1576/) |   最长严格上升子序列   |                序列型DP                 |           |
 | [1643](http://codevs.cn/problem/1643/) |     线段覆盖3     |       序列型DP + 二分查找(1) / 贪心(2)        |           |
 | [1688](http://codevs.cn/problem/1688/) |     求逆序对      |               分治 + 逆序对               |           |
-| [1697](http://codevs.cn/problem/1697/) |     ⑨要写信      |            序列型DP + 大数四则运算            |           |
+| [1697](http://codevs.cn/problem/1697/) |     ⑨要写信      |             序列型DP + 大数四则             |           |
 | [3012](http://codevs.cn/problem/3012/) |     线段覆盖4     | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |           |
 | [3027](http://codevs.cn/problem/3027/) |     线段覆盖2     |                序列型DP                 |           |
+| [3112](http://codevs.cn/problem/3112/) |     二叉树计数     |               Catalan数               |           |
+| [3134](http://codevs.cn/problem/3134/) |    Circle     |               Catalan数               |           |
 | [3369](http://codevs.cn/problem/3369/) |      膜拜       |                序列型DP                 |           |
 | [3374](http://codevs.cn/problem/3374/) | 最长等差子序列（数据有误） |                序列型DP                 | 数据范围和答案有误 |
 
@@ -68,4 +70,5 @@
 | [1497](http://codevs.cn/problem/1497/) |    取余运算     |                  分治                  |        |
 | [3037](http://codevs.cn/problem/3037/) |    线段覆盖5    | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
 | [3095](http://codevs.cn/problem/3095/) |    黑心的市长    | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |        |
+| [3113](http://codevs.cn/problem/3113/) |   二叉树计数2    |         递推 + Catalan数 + 大数四则         |        |
 | [3286](http://codevs.cn/problem/3286/) |    火柴排队     |            分治 + 逆序对 + 离散化            |        |
