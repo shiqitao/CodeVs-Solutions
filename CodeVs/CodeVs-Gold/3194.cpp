@@ -10,18 +10,17 @@ string largeMul(const string num1, const int num2, const int offset = 0);
 string largeMultiple(const string num1, const string num2);
 int main()
 {
-	string num1, num2; cin >> num1 >> num2;
-	reverse(num1.begin(), num1.end());
-	reverse(num2.begin(), num2.end());
-	if (num2.size() > num1.size())
+	string N; int m;
+	cin >> N >> m;
+	reverse(N.begin(), N.end());
+	for (int i = 0; i < m; i++)
 	{
-		string temp = num2;
-		num2 = num1;
-		num1 = temp;
+		string temp; cin >> temp;
+		reverse(temp.begin(), temp.end());
+		N = largeMultiple(N, temp);
 	}
-	string result = largeMultiple(num1, num2);
-	for (int i = result.size() - 1; i >= 0; i--)
-		cout << result[i];
+	for (int i = N.size() - 1; i >= 0; i--)
+		cout << N[i];
 	cout << endl;
 	return 0;
 }
