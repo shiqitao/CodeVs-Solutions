@@ -23,8 +23,9 @@
 | :------------------------------------: | :-------------------------------: | :--------------------------: |
 | [1328](http://poj.org/problem?id=1328) |        Radar Installation         |             贪心算法             |
 | [1753](http://poj.org/problem?id=1753) |             Flip Game             | 枚举 + BFS + 状态压缩 + STL(queue) |
+| [2109](http://poj.org/problem?id=2109) |       Power of Cryptography       |                              |
+| [2586](http://poj.org/problem?id=2586) |        Y2K Accounting Bug         |             贪心算法             |
 | [2965](http://poj.org/problem?id=2965) | The Pilots Brothers' refrigerator |       枚举 + BFS + 状态压缩        |
-|                                        |                                   |                              |
 
 
 
