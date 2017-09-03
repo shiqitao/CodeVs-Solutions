@@ -47,11 +47,11 @@
 | [1044](http://codevs.cn/problem/1044/) |     拦截导弹      |              序列型DP + 贪心              |           |
 | [1048](http://codevs.cn/problem/1048/) |     石子归并      |                区间型DP                 |           |
 | [1085](http://codevs.cn/problem/1085/) |     数字游戏      |               环形划分型DP                |           |
-| [1086](http://codevs.cn/problem/1086/) |       栈       |               Catalan数               |           |
+| [1086](http://codevs.cn/problem/1086/) |     **栈**     |               Catalan数               |           |
 | [1214](http://codevs.cn/problem/1214/) |     线段覆盖      |                序列型DP                 |           |
 | [1215](http://codevs.cn/problem/1215/) |      迷宫       |                 DFS                  |           |
-| [1576](http://codevs.cn/problem/1576/) |   最长严格上升子序列   |                序列型DP                 |           |
-| [1643](http://codevs.cn/problem/1643/) |     线段覆盖3     |       序列型DP + 二分查找(1) / 贪心(2)        |           |
+| [1576](http://codevs.cn/problem/1576/) |   最长严格上升子序列   |         序列型DP + 最长递增子序列(LIS)         |           |
+| [1643](http://codevs.cn/problem/1643/) |     线段覆盖3     |       序列型DP + 二分查找[1] / 贪心[2]        |           |
 | [1688](http://codevs.cn/problem/1688/) |     求逆序对      |               分治 + 逆序对               |           |
 | [1697](http://codevs.cn/problem/1697/) |     ⑨要写信      |             序列型DP + 大数四则             |           |
 | [2747](http://codevs.cn/problem/2747/) |      惩罚       |                 大数四则                 |   未通过数据   |
