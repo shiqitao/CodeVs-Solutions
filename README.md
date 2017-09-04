@@ -54,6 +54,7 @@
 | [1643](http://codevs.cn/problem/1643/) |     线段覆盖3     |       序列型DP + 二分查找[1] / 贪心[2]        |           |
 | [1688](http://codevs.cn/problem/1688/) |     求逆序对      |               分治 + 逆序对               |           |
 | [1697](http://codevs.cn/problem/1697/) |     ⑨要写信      |             序列型DP + 大数四则             |           |
+| [1776](http://codevs.cn/problem/1776/) |   **我心永恒**    |      DP +  最长公共子序列(LCS) + 容斥原理       |           |
 | [2747](http://codevs.cn/problem/2747/) |      惩罚       |                 大数四则                 |   未通过数据   |
 | [3012](http://codevs.cn/problem/3012/) |     线段覆盖4     | 序列型DP + 随机快排 + 二分查找 +  取消cin于stdin同步 |           |
 | [3027](http://codevs.cn/problem/3027/) |     线段覆盖2     |                序列型DP                 |           |
