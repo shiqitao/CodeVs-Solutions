@@ -13,7 +13,7 @@ Notes and Errors
 | [2048](http://acm.hdu.edu.cn/showproblem.php?pid=2048) |         神、上帝以及老天爷         |    递推算法 + 欧拉错排    |
 | [2049](http://acm.hdu.edu.cn/showproblem.php?pid=2049) |    **不容易系列之(4)——考新郎**     |    递推算法 + 欧拉错排    |
 | [2050](http://acm.hdu.edu.cn/showproblem.php?pid=2050) |          折线分割平面           |       递推算法        |
-| [2084](http://acm.hdu.edu.cn/showproblem.php?pid=2084) |            树塔             |                   |
+| [2084](http://acm.hdu.edu.cn/showproblem.php?pid=2084) |            树塔             |       棋盘型DP       |
 | [4055](http://acm.hdu.edu.cn/showproblem.php?pid=4055) |     **Number String**     |       序列型DP       |
 | [4489](http://acm.hdu.edu.cn/showproblem.php?pid=4489) | The King’s Ups and Downs  |       序列型DP       |
 
@@ -50,6 +50,7 @@ Notes and Errors
 | [1086](http://codevs.cn/problem/1086/) |     **栈**     |              Catalan数              |           |
 | [1214](http://codevs.cn/problem/1214/) |     线段覆盖      |               序列型DP                |           |
 | [1215](http://codevs.cn/problem/1215/) |      迷宫       |                DFS                 |           |
+| [1220](http://codevs.cn/problem/1220/) |     数字三角形     |               棋盘型DP                |           |
 | [1576](http://codevs.cn/problem/1576/) |   最长严格上升子序列   |        序列型DP + 最长递增子序列(LIS)        |           |
 | [1643](http://codevs.cn/problem/1643/) |     线段覆盖3     |      序列型DP + 二分查找[1] / 贪心[2]       |           |
 | [1688](http://codevs.cn/problem/1688/) |     求逆序对      |              分治 + 逆序对              |           |
