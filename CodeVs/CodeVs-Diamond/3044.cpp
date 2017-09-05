@@ -1,6 +1,9 @@
 #include <iostream>
+#include <iomanip>
+#include <cstring>
 #include <algorithm>
 #include <map>
+#include <vector>
 using namespace std;
 struct Rectangle
 {
@@ -9,6 +12,7 @@ struct Rectangle
 int main()
 {
 	int n; cin >> n;
+	vector<double> result;
 	while (n != 0)
 	{
 		Rectangle *rectangle = new Rectangle[n];
@@ -28,8 +32,8 @@ int main()
 		map<double, int> yMap;
 		int xNum = 0;
 		int yNum = 0;
-		int xTemp = -1;
-		int yTemp = -1;
+		double xTemp = -1;
+		double yTemp = -1;
 		for (int i = 0; i < 2 * n; i++)
 		{
 			if (x[i] != xTemp)
@@ -58,22 +62,25 @@ int main()
 			for (int i = y1; i < y2; i++)
 				memset(data + i*(xNum - 1) + x1, true, sizeof(bool)*(x2 - x1));
 		}
-		double result = 0;
+		double area = 0;
 		for (int i = 0; i < yNum - 1; i++)
 		{
 			for (int j = 0; j < xNum - 1; j++)
 			{
 				if (data[i*(xNum - 1) + j])
-					result += (y[i + 1] - y[i])*(x[j + 1] - x[j]);
+					area += (y[i + 1] - y[i])*(x[j + 1] - x[j]);
 			}
 		}
-		cout << result << endl;
+		result.push_back(area);
 		delete[] rectangle;
 		delete[] x;
 		delete[] y;
 		delete[] data;
 		xMap.clear();
 		yMap.clear();
+		cin >> n;
 	}
+	for (int i = 0; i < result.size(); i++)
+		cout << setiosflags(ios::fixed) << setprecision(2) << result[i] << endl;
 	return 0;
 }

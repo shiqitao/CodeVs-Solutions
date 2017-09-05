@@ -71,8 +71,10 @@ Notes and Errors
 | :------------------------------------: | :---------: | :----------------------: | :----: |
 | [1028](http://codevs.cn/problem/1028/) | **花店橱窗布置**  | Kuhn-Munkres算法 + slack优化 |        |
 | [1250](http://codevs.cn/problem/1250/) | Fibonacci数列 |    Fibonacci + 矩阵快速幂     |        |
+| [1344](http://codevs.cn/problem/1344/) |  **线型网络**   |       随机化 + 哈密尔顿路        |        |
 | [1497](http://codevs.cn/problem/1497/) |    取余运算     |            分治            |        |
 | [3037](http://codevs.cn/problem/3037/) |  **线段覆盖5**  |   序列型DP + 随机快排 + 二分查找    |        |
+| [3044](http://codevs.cn/problem/3044/) | **矩形面积求并**  |           离散化            |        |
 | [3095](http://codevs.cn/problem/3095/) |    黑心的市长    |   序列型DP + 随机快排 + 二分查找    |        |
 | [3113](http://codevs.cn/problem/3113/) | **二叉树计数2**  |   递推 + Catalan数 + 大数四则   |        |
 | [3286](http://codevs.cn/problem/3286/) |  **火柴排队**   |      分治 + 逆序对 + 离散化      |        |
