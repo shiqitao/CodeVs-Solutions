@@ -1,14 +1,12 @@
 # Notes and Errors
 
-### LeetCode - Easy
+### LintCode - Easy
 
 |  ID  |   Name   | Notes |
 | :--: | :------: | :---: |
 |  1   | A + B 问题 |  异或   |
 |      |          |       |
 |      |          |       |
-
-
 
 ### HDOJ
 
@@ -37,19 +35,18 @@
 | [2586](http://poj.org/problem?id=2586) |          Y2K Accounting Bug           |       贪心        |
 | [2965](http://poj.org/problem?id=2965) | **The Pilots Brothers' refrigerator** | 枚举 + BFS + 状态压缩 |
 
-
-
-### CodeVs - Silver
-
-|                   ID                   | Name | Notes | Errors |
-| :------------------------------------: | :--: | :---: | :----: |
-| [2806](http://codevs.cn/problem/2806/) | 红与黑  |  DFS  |        |
-
 ### CodeVs - Gold
 
 |                   ID                   |     Name      |               Notes                |  Errors   |
 | :------------------------------------: | :-----------: | :--------------------------------: | :-------: |
+| [1003](http://codevs.cn/problem/1003/) |     电话连线      |               最小生成树                |           |
+| [1004](http://codevs.cn/problem/1004/) |     四子连棋      |                BFS                 |           |
+| [1005](http://codevs.cn/problem/1005/) |     生日礼物      |                DFS                 |           |
+| [1006](http://codevs.cn/problem/1006/) |     等差数列      |                 枚举                 |           |
+| [1008](http://codevs.cn/problem/1008/) |      选数       |              DFS + 枚举              |           |
+| [1009](http://codevs.cn/problem/1009/) |      产生数      |                                    |           |
 | [1010](http://codevs.cn/problem/1010/) |      过河卒      |               棋盘型DP                |           |
+| [1013](http://codevs.cn/problem/1013/) |     求先序排列     |                 递归                 |           |
 | [1014](http://codevs.cn/problem/1014/) |     装箱问题      |              01背包型DP               |           |
 | [1017](http://codevs.cn/problem/1017/) |     乘积最大      |               划分型DP                |           |
 | [1031](http://codevs.cn/problem/1031/) |      质数环      |             DFS + 素数筛              |           |
@@ -58,6 +55,8 @@
 | [1048](http://codevs.cn/problem/1048/) |     石子归并      |               区间型DP                |           |
 | [1085](http://codevs.cn/problem/1085/) |     数字游戏      |              环形划分型DP               |           |
 | [1086](http://codevs.cn/problem/1086/) |     **栈**     |              Catalan数              |           |
+| [1140](http://codevs.cn/problem/1140/) |    Jam的计数法    |                                    |           |
+| [1141](http://codevs.cn/problem/1141/) |      数列       |                                    |           |
 | [1214](http://codevs.cn/problem/1214/) |     线段覆盖      |               序列型DP                |           |
 | [1215](http://codevs.cn/problem/1215/) |      迷宫       |                DFS                 |           |
 | [1220](http://codevs.cn/problem/1220/) |     数字三角形     |               棋盘型DP                |           |
@@ -80,7 +79,9 @@
 |                   ID                   |    Name     |          Notes           | Errors |
 | :------------------------------------: | :---------: | :----------------------: | :----: |
 | [1028](http://codevs.cn/problem/1028/) | **花店橱窗布置**  | Kuhn-Munkres算法 + slack优化 |        |
+| [1029](http://codevs.cn/problem/1029/) |    遍历问题     |            递归            |        |
 | [1250](http://codevs.cn/problem/1250/) | Fibonacci数列 |    Fibonacci + 矩阵快速幂     |        |
+| [1280](http://codevs.cn/problem/1280/) |    无限序列     |                          |        |
 | [1344](http://codevs.cn/problem/1344/) |  **线型网络**   |       随机化 + 哈密尔顿路        |        |
 | [1497](http://codevs.cn/problem/1497/) |    取余运算     |            分治            |        |
 | [3037](http://codevs.cn/problem/3037/) |  **线段覆盖5**  |   序列型DP + 随机快排 + 二分查找    |        |
