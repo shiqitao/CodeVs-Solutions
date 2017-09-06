@@ -5,8 +5,6 @@
 |  ID  |   Name   | Notes |
 | :--: | :------: | :---: |
 |  1   | A + B 问题 |  异或   |
-|      |          |       |
-|      |          |       |
 
 ### HDOJ
 
@@ -90,3 +88,9 @@
 | [3095](http://codevs.cn/problem/3095/) |    黑心的市长    |   序列型DP + 随机快排 + 二分查找    |        |
 | [3113](http://codevs.cn/problem/3113/) | **二叉树计数2**  |   递推 + Catalan数 + 大数四则   |        |
 | [3286](http://codevs.cn/problem/3286/) |  **火柴排队**   |      分治 + 逆序对 + 离散化      |        |
+
+### CodeVs - Master
+
+|                   ID                   | Name |      Notes      | Errors |
+| :------------------------------------: | :--: | :-------------: | :----: |
+| [2941](http://codevs.cn/problem/2941/) | 西游记  | 状态压缩型DP + floyd |        |
