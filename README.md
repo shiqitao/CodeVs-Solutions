@@ -1,4 +1,14 @@
-Notes and Errors
+# Notes and Errors
+
+### LeetCode - Easy
+
+|  ID  |   Name   | Notes |
+| :--: | :------: | :---: |
+|  1   | A + B 问题 |  异或   |
+|      |          |       |
+|      |          |       |
+
+
 
 ### HDOJ
 
