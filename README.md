@@ -84,6 +84,7 @@
 | [1280](http://codevs.cn/problem/1280/) |    无限序列     |                          |        |
 | [1344](http://codevs.cn/problem/1344/) |  **线型网络**   |       随机化 + 哈密尔顿路        |        |
 | [1497](http://codevs.cn/problem/1497/) |    取余运算     |            分治            |        |
+| [2800](http://codevs.cn/problem/2800/) |   **送外卖**   |     状态压缩型DP + floyd      |        |
 | [3037](http://codevs.cn/problem/3037/) |  **线段覆盖5**  |   序列型DP + 随机快排 + 二分查找    |        |
 | [3044](http://codevs.cn/problem/3044/) | **矩形面积求并**  |           离散化            |        |
 | [3095](http://codevs.cn/problem/3095/) |    黑心的市长    |   序列型DP + 随机快排 + 二分查找    |        |
