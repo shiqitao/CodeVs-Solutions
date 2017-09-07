@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{93134CE2-4ED0-468D-8D19-834366968870}</ProjectGuid>
+    <ProjectGuid>{AA837599-1AE0-4286-A12C-628FED0B05F0}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>POJ</RootNamespace>
   </PropertyGroup>

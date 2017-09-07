@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{0E4F3B89-458E-4553-BC3F-9D55ABC2CFE3}</ProjectGuid>
+    <ProjectGuid>{937AEBC3-5018-42BB-B7E8-C8BD0A7DA8FF}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>CodeVsSilver</RootNamespace>
   </PropertyGroup>

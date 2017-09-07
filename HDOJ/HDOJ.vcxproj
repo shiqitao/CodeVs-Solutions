@@ -11,7 +11,7 @@
     </ProjectConfiguration>
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{E452354D-39A9-4303-B6AD-1BAF878DF683}</ProjectGuid>
+    <ProjectGuid>{7AD2DBBF-C06B-443B-B382-469CACC40D49}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>HDOJ</RootNamespace>
   </PropertyGroup>

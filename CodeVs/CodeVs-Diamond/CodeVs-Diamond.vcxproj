@@ -14,7 +14,7 @@
     <ClCompile Include="2800.cpp" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
-    <ProjectGuid>{499AA317-87B8-4C0D-A722-7A116B2ACC3E}</ProjectGuid>
+    <ProjectGuid>{AAC0D1FC-40EA-4402-8008-D517CE49F3E4}</ProjectGuid>
     <Keyword>Win32Proj</Keyword>
     <RootNamespace>CodeVsDiamond</RootNamespace>
   </PropertyGroup>
