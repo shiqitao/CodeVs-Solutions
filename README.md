@@ -2,9 +2,9 @@
 
 ### LintCode - Easy
 
-|  ID  |   Name   | Notes |
-| :--: | :------: | :---: |
-|  1   | A + B 问题 |  异或   |
+|                    ID                    |   Name   | Notes |
+| :--------------------------------------: | :------: | :---: |
+| [1](http://www.lintcode.com/zh-cn/problem/a-b-problem/) | A + B 问题 |  异或   |
 
 ### HDOJ
 
@@ -94,3 +94,11 @@
 |                   ID                   | Name |      Notes      | Errors |
 | :------------------------------------: | :--: | :-------------: | :----: |
 | [2941](http://codevs.cn/problem/2941/) | 西游记  | 状态压缩型DP + floyd |        |
+
+### CodeForces
+
+|                    ID                    |          Name           |
+| :--------------------------------------: | :---------------------: |
+| [1A](http://codeforces.com/problemset/problem/1/A) |     Theatre Square      |
+| [1B](http://codeforces.com/problemset/problem/1/B) |      Spreadsheets       |
+| [854B](http://codeforces.com/problemset/problem/854/B) | Maxim Buys an Apartment |

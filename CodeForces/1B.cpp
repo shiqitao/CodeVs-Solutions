@@ -5,10 +5,10 @@ using namespace std;
 int main()
 {
 	int n; cin >> n;
-	string *result = new string[n];
 	for (int i = 0; i < n; i++)
 	{
 		string str; cin >> str;
+		string result;
 		int length = str.length();
 		bool type = 1;
 		if (str[0] == 'R' && str[1] <= '9' && str[1] >= '0')
@@ -23,18 +23,11 @@ int main()
 			while (str[k] > '9') k++;
 			string temp1 = str.substr(0, k);
 			string temp2 = str.substr(k, length - k);
-			result[i] = 'R' + temp2 + 'C';
+			result = 'R' + temp2 + 'C';
 			int column = 0;
 			for (int j = 0; j < temp1.length(); j++)
 				column = column * 26 + int(temp1[j] - 'A') + 1;
-			string temp = "";
-			while (column != 0)
-			{
-				temp += '0' + column % 10;
-				column /= 10;
-			}
-			reverse(temp.begin(), temp.end());
-			result[i] += temp;
+			cout << result << column << endl;
 		}
 		else
 		{
@@ -46,14 +39,14 @@ int main()
 				column = column * 10 + int(temp2[j] - '0');
 			while (column != 0)
 			{
-				result[i] += 'A' + (column + 25) % 26;
+				column--;
+				result += 'A' + column % 26;
 				column /= 26;
 			}
-			reverse(result[i].begin(), result[i].end());
-			result[i] += temp1;
+			reverse(result.begin(), result.end());
+			result += temp1;
+			cout << result << endl;
 		}
 	}
-	for (int i = 0; i < n; i++)
-		cout << result[i] << endl;
 	return 0;
 }
