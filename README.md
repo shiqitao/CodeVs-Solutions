@@ -2,9 +2,14 @@
 
 ### LintCode - Easy
 
-|                    ID                    |   Name   | Notes |
-| :--------------------------------------: | :------: | :---: |
-| [1](http://www.lintcode.com/zh-cn/problem/a-b-problem/) | A + B 问题 |  异或   |
+|                    ID                    |     Name     |  Notes  |
+| :--------------------------------------: | :----------: | :-----: |
+| [1](http://www.lintcode.com/zh-cn/problem/a-b-problem/) |   A + B 问题   |   异或    |
+| [9](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) | Fizz Buzz 问题 |         |
+| [75](http://www.lintcode.com/zh-cn/problem/find-peak-element/) |     寻找峰值     |         |
+| [76](http://www.lintcode.com/zh-cn/problem/longest-increasing-subsequence/) | 最长上升子序列(LIS) |  序列型DP  |
+| [77](http://www.lintcode.com/zh-cn/problem/longest-common-subsequence/) | 最长公共子序列(LCS) |  序列型DP  |
+| [97](http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/) |   二叉树的最大深度   | 递归 + 分治 |
 
 ### HDOJ
 
