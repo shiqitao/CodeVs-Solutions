@@ -4,10 +4,10 @@
 
 |                    ID                    |       Name       |  Notes  |
 | :--------------------------------------: | :--------------: | :-----: |
-| [1](http://www.lintcode.com/zh-cn/problem/a-b-problem/) |     A + B 问题     |   异或    |
-| [9](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) |   Fizz Buzz 问题   |         |
-| [82](http://www.lintcode.com/zh-cn/problem/single-number/) |       落单的数       |         |
-| [97](http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/) |     二叉树的最大深度     | 递归 + 分治 |
+| [001](http://www.lintcode.com/zh-cn/problem/a-b-problem/) |     A + B 问题     |   异或    |
+| [009](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) |   Fizz Buzz 问题   |         |
+| [082](http://www.lintcode.com/zh-cn/problem/single-number/) |       落单的数       |         |
+| [097](http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/) |     二叉树的最大深度     | 递归 + 分治 |
 | [175](http://www.lintcode.com/zh-cn/problem/invert-binary-tree/) |      翻转二叉树       |         |
 | [372](http://www.lintcode.com/zh-cn/problem/delete-node-in-the-middle-of-singly-linked-list/) | 在O(1)时间复杂度删除链表节点 |         |
 | [375](http://www.lintcode.com/zh-cn/problem/clone-binary-tree/) |      克隆二叉树       |         |
@@ -16,11 +16,11 @@
 
 |                    ID                    |              Name               | Notes |
 | :--------------------------------------: | :-----------------------------: | :---: |
-| [75](http://www.lintcode.com/zh-cn/problem/find-peak-element/) |              寻找峰值               |       |
-| [76](http://www.lintcode.com/zh-cn/problem/longest-increasing-subsequence/) |          最长上升子序列(LIS)           | 序列型DP |
-| [77](http://www.lintcode.com/zh-cn/problem/longest-common-subsequence/) |          最长公共子序列(LCS)           | 序列型DP |
-| [83](http://www.lintcode.com/zh-cn/problem/single-number-ii/) |             落单的数 II             |       |
-| [84](http://www.lintcode.com/zh-cn/problem/single-number-iii/) |            落单的数 III             |       |
+| [075](http://www.lintcode.com/zh-cn/problem/find-peak-element/) |              寻找峰值               |       |
+| [076](http://www.lintcode.com/zh-cn/problem/longest-increasing-subsequence/) |          最长上升子序列(LIS)           | 序列型DP |
+| [077](http://www.lintcode.com/zh-cn/problem/longest-common-subsequence/) |          最长公共子序列(LCS)           | 序列型DP |
+| [083](http://www.lintcode.com/zh-cn/problem/single-number-ii/) |             落单的数 II             |       |
+| [084](http://www.lintcode.com/zh-cn/problem/single-number-iii/) |            落单的数 III             |       |
 | [102](http://www.lintcode.com/zh-cn/problem/linked-list-cycle/) |              带环链表               | 快慢指针  |
 | [118](http://www.lintcode.com/zh-cn/problem/distinct-subsequences/) |             不同的子序列              |  DP   |
 | [149](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock/) |            买卖股票的最佳时机            |       |
