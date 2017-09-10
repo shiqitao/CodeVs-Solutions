@@ -6,17 +6,23 @@
 | :--------------------------------------: | :--------------: | :---: |
 | [001](http://www.lintcode.com/zh-cn/problem/a-b-problem/) |     A + B 问题     |  异或   |
 | [009](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) |   Fizz Buzz 问题   |       |
+| [035](http://www.lintcode.com/zh-cn/problem/reverse-linked-list/) |       翻转链表       |       |
+| [041](http://www.lintcode.com/zh-cn/problem/maximum-subarray/) |      最大子数组       |       |
 | [046](http://www.lintcode.com/zh-cn/problem/majority-number/) |       主元素        |       |
 | [066](http://www.lintcode.com/zh-cn/problem/binary-tree-preorder-traversal/) |     二叉树的前序遍历     |  递归   |
 | [067](http://www.lintcode.com/zh-cn/problem/binary-tree-inorder-traversal/) |     二叉树的中序遍历     |  递归   |
 | [068](http://www.lintcode.com/zh-cn/problem/binary-tree-postorder-traversal/) |     二叉树的后序遍历     |  递归   |
+| [069](http://www.lintcode.com/zh-cn/problem/binary-tree-level-order-traversal/) |     二叉树的层次遍历     |  BFS  |
 | [082](http://www.lintcode.com/zh-cn/problem/single-number/) |       落单的数       |       |
 | [085](http://www.lintcode.com/zh-cn/problem/insert-node-in-a-binary-search-tree/) |   在二叉查找树中插入节点    |  递归   |
 | [097](http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/) |     二叉树的最大深度     |  递归   |
+| [114](http://www.lintcode.com/zh-cn/problem/unique-paths/) |      不同的路径       |       |
+| [115](http://www.lintcode.com/zh-cn/problem/unique-paths-ii/) |     不同的路径 II     | 棋盘型DP |
 | [157](http://www.lintcode.com/zh-cn/problem/unique-characters/) |  判断字符串是否没有重复字符   |       |
 | [166](http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/) |    链表倒数第n个节点     |       |
 | [175](http://www.lintcode.com/zh-cn/problem/invert-binary-tree/) |      翻转二叉树       |  递归   |
 | [372](http://www.lintcode.com/zh-cn/problem/delete-node-in-the-middle-of-singly-linked-list/) | 在O(1)时间复杂度删除链表节点 |       |
+| [373](http://www.lintcode.com/zh-cn/problem/partition-array-by-odd-and-even/) |      奇偶分割数组      | 首尾指针  |
 | [375](http://www.lintcode.com/zh-cn/problem/clone-binary-tree/) |      克隆二叉树       |  递归   |
 | [469](http://www.lintcode.com/zh-cn/problem/identical-binary-tree/) |      等价二叉树       |  递归   |
 
@@ -24,6 +30,11 @@
 
 |                    ID                    |              Name               | Notes |
 | :--------------------------------------: | :-----------------------------: | :---: |
+| [040](http://www.lintcode.com/zh-cn/problem/implement-queue-by-two-stacks/) |             用栈实现队列              |       |
+| [049](http://www.lintcode.com/zh-cn/problem/sort-letters-by-case/) |             字符大小写排序             |       |
+| [062](http://www.lintcode.com/zh-cn/problem/search-in-rotated-sorted-array/) |            搜索旋转排序数组             |  二分法  |
+| [063](http://www.lintcode.com/zh-cn/problem/search-in-rotated-sorted-array-ii/) |           搜索旋转排序数组 II           |  二分法  |
+| [070](http://www.lintcode.com/zh-cn/problem/binary-tree-level-order-traversal-ii/) |           二叉树的层次遍历 II           |  BFS  |
 | [075](http://www.lintcode.com/zh-cn/problem/find-peak-element/) |              寻找峰值               |       |
 | [076](http://www.lintcode.com/zh-cn/problem/longest-increasing-subsequence/) |          最长上升子序列(LIS)           | 序列型DP |
 | [077](http://www.lintcode.com/zh-cn/problem/longest-common-subsequence/) |          最长公共子序列(LCS)           | 序列型DP |
@@ -34,9 +45,13 @@
 | [149](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock/) |            买卖股票的最佳时机            |       |
 | [150](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock-ii/) |          买卖股票的最佳时机 II           |       |
 | [151](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock-iii/) |          买卖股票的最佳时机 III          | 前后遍历  |
+| [201](http://www.lintcode.com/zh-cn/problem/segment-tree-build/) |             线段树的构造              |  线段树  |
+| [383](http://www.lintcode.com/zh-cn/problem/container-with-most-water/) |             装最多水的容器             | 首尾指针  |
 | [394](http://www.lintcode.com/zh-cn/problem/coins-in-a-line/) |              硬币排成线              |       |
 | [418](http://www.lintcode.com/zh-cn/problem/integer-to-roman/) |             整数转罗马数字             |       |
 | [419](http://www.lintcode.com/zh-cn/problem/roman-to-integer/) |             罗马数字转整数             |       |
+| [439](http://www.lintcode.com/zh-cn/problem/segment-tree-build-ii/) |            线段树的构造 II            |  线段树  |
+| [508](http://www.lintcode.com/zh-cn/problem/wiggle-sort/) |              摆动排序               |       |
 | [608](http://www.lintcode.com/zh-cn/problem/two-sum-input-array-is-sorted/) | Two Sum - Input array is sorted |       |
 
 ### LintCode - Hard
@@ -98,12 +113,12 @@
 | [1215](http://codevs.cn/problem/1215/) |      迷宫       |                DFS                 |           |
 | [1220](http://codevs.cn/problem/1220/) |     数字三角形     |               棋盘型DP                |           |
 | [1576](http://codevs.cn/problem/1576/) |   最长严格上升子序列   |        序列型DP + 最长递增子序列(LIS)        |           |
-| [1643](http://codevs.cn/problem/1643/) |     线段覆盖3     |      序列型DP + 二分查找[1] / 贪心[2]       |           |
+| [1643](http://codevs.cn/problem/1643/) |     线段覆盖3     |       序列型DP + 二分法[1] / 贪心[2]       |           |
 | [1688](http://codevs.cn/problem/1688/) |     求逆序对      |              分治 + 逆序对              |           |
 | [1697](http://codevs.cn/problem/1697/) |     ⑨要写信      |            序列型DP + 大数四则            |           |
 | [1776](http://codevs.cn/problem/1776/) |   **我心永恒**    | DP +  最长公共子序列(LCS) +  公共子序列个数 + 容斥 |           |
 | [2747](http://codevs.cn/problem/2747/) |      惩罚       |                大数四则                |   未通过数据   |
-| [3012](http://codevs.cn/problem/3012/) |     线段覆盖4     |        序列型DP + 随机快排 + 二分查找         |           |
+| [3012](http://codevs.cn/problem/3012/) |     线段覆盖4     |         序列型DP + 随机快排 + 二分法         |           |
 | [3027](http://codevs.cn/problem/3027/) |     线段覆盖2     |               序列型DP                |           |
 | [3112](http://codevs.cn/problem/3112/) |     二叉树计数     |              Catalan数              |           |
 | [3134](http://codevs.cn/problem/3134/) |    Circle     |              Catalan数              |           |
@@ -122,9 +137,9 @@
 | [1344](http://codevs.cn/problem/1344/) |  **线型网络**   |       随机化 + 哈密尔顿路        |        |
 | [1497](http://codevs.cn/problem/1497/) |    取余运算     |            分治            |        |
 | [2800](http://codevs.cn/problem/2800/) |   **送外卖**   |     状态压缩型DP + floyd      |        |
-| [3037](http://codevs.cn/problem/3037/) |  **线段覆盖5**  |   序列型DP + 随机快排 + 二分查找    |        |
+| [3037](http://codevs.cn/problem/3037/) |  **线段覆盖5**  |    序列型DP + 随机快排 + 二分法    |        |
 | [3044](http://codevs.cn/problem/3044/) | **矩形面积求并**  |           离散化            |        |
-| [3095](http://codevs.cn/problem/3095/) |    黑心的市长    |   序列型DP + 随机快排 + 二分查找    |        |
+| [3095](http://codevs.cn/problem/3095/) |    黑心的市长    |    序列型DP + 随机快排 + 二分法    |        |
 | [3113](http://codevs.cn/problem/3113/) | **二叉树计数2**  |   递推 + Catalan数 + 大数四则   |        |
 | [3286](http://codevs.cn/problem/3286/) |  **火柴排队**   |      分治 + 逆序对 + 离散化      |        |
 

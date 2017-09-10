@@ -22,6 +22,15 @@ public:
 	*/
 	ListNode * reverse(ListNode * head) {
 		// write your code here
-
+		ListNode *pre = NULL;
+		ListNode *temp;
+		while (head != NULL)
+		{
+			temp = head->next;
+			head->next = pre;
+			pre = head;
+			head = temp;
+		}
+		return pre;
 	}
 };
