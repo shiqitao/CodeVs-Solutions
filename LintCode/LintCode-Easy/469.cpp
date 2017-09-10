@@ -21,6 +21,12 @@ public:
 	*/
 	bool isIdentical(TreeNode * a, TreeNode * b) {
 		// write your code here
-		if ()
+		if (a != NULL && b != NULL && a->val == b->val) {
+			return isIdentical(a->left, b->left) & isIdentical(a->right, b->right);
+		}
+		else if (a == NULL && b == NULL) {
+			return true;
+		}
+		return false;
 	}
 };

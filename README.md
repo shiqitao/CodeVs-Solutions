@@ -2,15 +2,23 @@
 
 ### LintCode - Easy
 
-|                    ID                    |       Name       |  Notes  |
-| :--------------------------------------: | :--------------: | :-----: |
-| [001](http://www.lintcode.com/zh-cn/problem/a-b-problem/) |     A + B 问题     |   异或    |
-| [009](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) |   Fizz Buzz 问题   |         |
-| [082](http://www.lintcode.com/zh-cn/problem/single-number/) |       落单的数       |         |
-| [097](http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/) |     二叉树的最大深度     | 递归 + 分治 |
-| [175](http://www.lintcode.com/zh-cn/problem/invert-binary-tree/) |      翻转二叉树       |         |
-| [372](http://www.lintcode.com/zh-cn/problem/delete-node-in-the-middle-of-singly-linked-list/) | 在O(1)时间复杂度删除链表节点 |         |
-| [375](http://www.lintcode.com/zh-cn/problem/clone-binary-tree/) |      克隆二叉树       |         |
+|                    ID                    |       Name       | Notes |
+| :--------------------------------------: | :--------------: | :---: |
+| [001](http://www.lintcode.com/zh-cn/problem/a-b-problem/) |     A + B 问题     |  异或   |
+| [009](http://www.lintcode.com/zh-cn/problem/fizz-buzz/) |   Fizz Buzz 问题   |       |
+| [046](http://www.lintcode.com/zh-cn/problem/majority-number/) |       主元素        |       |
+| [066](http://www.lintcode.com/zh-cn/problem/binary-tree-preorder-traversal/) |     二叉树的前序遍历     |  递归   |
+| [067](http://www.lintcode.com/zh-cn/problem/binary-tree-inorder-traversal/) |     二叉树的中序遍历     |  递归   |
+| [068](http://www.lintcode.com/zh-cn/problem/binary-tree-postorder-traversal/) |     二叉树的后序遍历     |  递归   |
+| [082](http://www.lintcode.com/zh-cn/problem/single-number/) |       落单的数       |       |
+| [085](http://www.lintcode.com/zh-cn/problem/insert-node-in-a-binary-search-tree/) |   在二叉查找树中插入节点    |  递归   |
+| [097](http://www.lintcode.com/zh-cn/problem/maximum-depth-of-binary-tree/) |     二叉树的最大深度     |  递归   |
+| [157](http://www.lintcode.com/zh-cn/problem/unique-characters/) |  判断字符串是否没有重复字符   |       |
+| [166](http://www.lintcode.com/zh-cn/problem/nth-to-last-node-in-list/) |    链表倒数第n个节点     |       |
+| [175](http://www.lintcode.com/zh-cn/problem/invert-binary-tree/) |      翻转二叉树       |  递归   |
+| [372](http://www.lintcode.com/zh-cn/problem/delete-node-in-the-middle-of-singly-linked-list/) | 在O(1)时间复杂度删除链表节点 |       |
+| [375](http://www.lintcode.com/zh-cn/problem/clone-binary-tree/) |      克隆二叉树       |  递归   |
+| [469](http://www.lintcode.com/zh-cn/problem/identical-binary-tree/) |      等价二叉树       |  递归   |
 
 ### LintCode - Medium
 
@@ -26,7 +34,9 @@
 | [149](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock/) |            买卖股票的最佳时机            |       |
 | [150](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock-ii/) |          买卖股票的最佳时机 II           |       |
 | [151](http://www.lintcode.com/zh-cn/problem/best-time-to-buy-and-sell-stock-iii/) |          买卖股票的最佳时机 III          | 前后遍历  |
+| [394](http://www.lintcode.com/zh-cn/problem/coins-in-a-line/) |              硬币排成线              |       |
 | [418](http://www.lintcode.com/zh-cn/problem/integer-to-roman/) |             整数转罗马数字             |       |
+| [419](http://www.lintcode.com/zh-cn/problem/roman-to-integer/) |             罗马数字转整数             |       |
 | [608](http://www.lintcode.com/zh-cn/problem/two-sum-input-array-is-sorted/) | Two Sum - Input array is sorted |       |
 
 ### LintCode - Hard
