@@ -1,4 +1,4 @@
-Answers of Online Judge
+Answers of Online Judge  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++-orange.svg?style=flat)
 ![](https://img.shields.io/badge/Answers-249-blue.svg)
