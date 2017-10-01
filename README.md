@@ -1,5 +1,5 @@
-# Notes and Errors
-
+# Answers of Online Judge
+[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
 ### LintCode
 
 |                 Sequence                 | Problem                         | Level  | Language | Notes |  Build  |
