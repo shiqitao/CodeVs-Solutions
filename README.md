@@ -1,7 +1,8 @@
-# Answers of Online Judge
+Answers of Online Judge
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++-orange.svg?style=flat)
 ![](https://img.shields.io/badge/Answers-249-blue.svg)
+========
 ### Online Judge Including:
 - [LintCode](http://www.lintcode.com/en/problem/)：45 answers
 - [HDOJ](http://acm.hdu.edu.cn/)：12 answers
