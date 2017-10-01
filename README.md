@@ -1,5 +1,14 @@
 # Answers of Online Judge
-[![Travis](https://img.shields.io/travis/rust-lang/rust.svg)]()
+![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
+![](https://img.shields.io/badge/language-C++-orange.svg?style=flat)
+### Online Judge Including:
+- [LintCode](http://www.lintcode.com/en/problem/)
+- [HDOJ](http://acm.hdu.edu.cn/)
+- [POJ](http://poj.org/)
+- [CodeVs](http://codevs.cn/)
+- [CodeForces](http://codeforces.com/)
+
+***
 ### LintCode
 
 |                 Sequence                 | Problem                         | Level  | Language | Notes |  Build  |
