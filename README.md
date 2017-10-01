@@ -10,7 +10,6 @@ Answers of Online Judge
 - [SOJ (Shanghai Jiao Tong University Online Judge)](https://acm.sjtu.edu.cn/OnlineJudge/)：4 answers
 - [CodeVs](http://codevs.cn/)：184 answers
 - [CodeForces](http://codeforces.com/)：3 answers
-========
 ### Some of the problems are listed below:
 |   Source   |                 Sequence                 | Problem                               |  Level  | Language |               Notes                |   Build   |
 | :--------: | :--------------------------------------: | :------------------------------------ | :-----: | :------: | :--------------------------------: | :-------: |
