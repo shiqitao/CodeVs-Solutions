@@ -5,8 +5,9 @@ Answers of Online Judge
 ========
 ### Online Judge Including:
 - [LintCode](http://www.lintcode.com/en/problem/)：45 answers
-- [HDOJ](http://acm.hdu.edu.cn/)：12 answers
-- [POJ](http://poj.org/)：5 answers
+- [HDOJ (Hangzhou Dianzi University Online Judge)](http://acm.hdu.edu.cn/)：12 answers
+- [POJ (Peking Online Judge)](http://poj.org/)：5 answers
+- [SOJ (Shanghai Jiao Tong University Online Judge)](https://acm.sjtu.edu.cn/OnlineJudge/)：4 answers
 - [CodeVs](http://codevs.cn/)：184 answers
 - [CodeForces](http://codeforces.com/)：3 answers
 ***

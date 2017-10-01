@@ -1,3 +1,5 @@
 Debug/
 Solution/
 Algorithm/
+*.vcxproj
+*.filters
