@@ -12,6 +12,7 @@ Answers of Online Judge
 - [CodeForces](http://codeforces.com/)：3 answers
 ***
 ###Some of the problems are listed below:
+
 |   Source   |                 Sequence                 | Problem                               |  Level  | Language |               Notes                |   Build   |
 | :--------: | :--------------------------------------: | :------------------------------------ | :-----: | :------: | :--------------------------------: | :-------: |
 |  LintCode  | [001](http://www.lintcode.com/zh-cn/problem/a-b-problem/) | A + B 问题                              |  Easy   |   C++    |                 异或                 |  Passing  |
