@@ -1,7 +1,7 @@
 Answers of Online Judge  
 ![Travis](https://img.shields.io/travis/rust-lang/rust.svg?style=flat)
 ![](https://img.shields.io/badge/Language-C++-orange.svg?style=flat)
-![](https://img.shields.io/badge/Answers-249-blue.svg)
+![](https://img.shields.io/badge/Answers-253-blue.svg)
 ========
 ### Online Judge Including:
 - [LintCode](http://www.lintcode.com/en/problem/)：45 answers
@@ -11,6 +11,7 @@ Answers of Online Judge
 - [CodeVs](http://codevs.cn/)：184 answers
 - [CodeForces](http://codeforces.com/)：3 answers
 ***
+###Some of the problems are listed below:
 |   Source   |                 Sequence                 | Problem                               |  Level  | Language |               Notes                |   Build   |
 | :--------: | :--------------------------------------: | :------------------------------------ | :-----: | :------: | :--------------------------------: | :-------: |
 |  LintCode  | [001](http://www.lintcode.com/zh-cn/problem/a-b-problem/) | A + B 问题                              |  Easy   |   C++    |                 异或                 |  Passing  |
